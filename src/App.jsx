@@ -1,5 +1,5 @@
 import React from 'react'; // Type rafce for React snippet
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Tech from './components/Tech';
